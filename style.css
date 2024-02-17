@@ -13,14 +13,14 @@ body{
 .editors{
     background-color: darkgoldenrod;
     width: 100%;
-    font-size: 50px;
+    font-size: x-large;
 
 }
 textarea{
     width: 100%;
-    min-height: 550px;
+    min-height: 150px;
     overflow:scroll;
-    font-size: 100px;
+    font-size: 40px;
 }
 iframe{
     width: 100%;
